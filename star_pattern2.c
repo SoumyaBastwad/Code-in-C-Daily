@@ -1,16 +1,17 @@
 // pattern problem in star traingle pattern
+
 #include<stdio.h>
 void main()
-{
-  int i,j,n;
-  printf("enter the number of rows:");
-  scanf("%d",&n);
-  for(i=1;i<=n;i++)
   {
-    for(j=n;j>=i;j--)
+    int i,j,n;
+    printf("enter the number of rows:");
+    scanf("%d",&n);
+    for(i=1;i<=n;i++)
     {
-       printf("*");
+       for(j=n;j>=i;j--)
+       {
+         printf("*");
+       }
+       printf("\n");
     }
-    printf("\n");
   }
-}
