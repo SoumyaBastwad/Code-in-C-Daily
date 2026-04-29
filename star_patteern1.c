@@ -1,3 +1,4 @@
+//pattern problem star normal traingle
 #include<stdio.h>
 void main()
 {
