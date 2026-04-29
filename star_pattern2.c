@@ -1,3 +1,4 @@
+// pattern problem in star traingle pattern
 #include<stdio.h>
 void main()
 {
