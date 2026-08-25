@@ -1,6 +1,6 @@
 //pattern problem star normal traingle
 
- #include<stdio.h>
+#include<stdio.h>
   void main()
   {
      int i,j,n;
