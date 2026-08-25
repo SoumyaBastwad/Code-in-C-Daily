@@ -1,7 +1,6 @@
 // number pattern code in c
 
-
- #include<stdio.h>
+#include<stdio.h>
  void main()
  {
    int i,j,n;
