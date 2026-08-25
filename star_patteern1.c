@@ -1,7 +1,7 @@
 //pattern problem star normal traingle
 
 #include<stdio.h>
-  void main()
+ void main()
   {
      int i,j,n;
      printf("enter the number of rows:");
@@ -14,4 +14,4 @@
       }
       printf("\n");
     }
-   }
+  }
