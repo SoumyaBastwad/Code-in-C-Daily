@@ -9,13 +9,4 @@ second=largest;
 largest=arr[i];
 
 }
-else if (arr[i]>second && arr[i] != largest){
-  second=arr[i];
-}
-}
-printf("second largest number is :%d",second);
-return 0;
-
-}
-
 
