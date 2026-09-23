@@ -1,7 +1,4 @@
-// number pattern code in c
 
-#include<stdio.h>
- void main(
  
 // number pattern code in c
 
