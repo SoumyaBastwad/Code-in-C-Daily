@@ -17,5 +17,3 @@ printf("second largest number is :%d",second);
 return 0;
 
 }
-
-
